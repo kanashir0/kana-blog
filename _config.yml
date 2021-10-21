@@ -17,7 +17,7 @@ timezone: America/Sao_Paulo
 # --------------------------
 title: Gabriel Kanashiro                          # the main title
 
-tagline: Welcome to my blog, here I share some knowledge that I obtained within the IT community.   # it will display as the sub-title
+tagline: Bem-vindo(a) ao meu blog, aqui eu compartilho alguns dos meus conhecimentos adquiridos na área de TI. # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, portfolio, sidebar,
